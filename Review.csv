@@ -1,0 +1,7 @@
+Customer_ID,Customer_Name,Age,Gender,Language,Opinion,Sentiment
+C001,Shiv,55,Male,English,I do not like this product,Neutral
+C002,Narayan,21,Male,Hindi,This is the worst product,Negative
+C003,Tagore,35,Male,English,I love this Product,Positive
+C004,Bose,45,Female,Hindi,Best Product,Positive
+C005,Baba,24,Female,English,Good Product,Neutral
+C006,Dev,19,Male,English,Could be better,Neutral
